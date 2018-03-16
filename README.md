@@ -1,10 +1,10 @@
 # My Resume
 
-[yjanuary.com](http://yjanuary.com)
+[resume.yjanuary](http://resume.yjanuary)
 
 ## Introduction
 
-风格参考 @Yjanuary
+风格参考 @DIYgod
 
 ## Usage
 
