@@ -1,14 +1,10 @@
 # My Resume
 
-[html.love](http://html.love)
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume.svg' />
-</a>
+[yjanuary.com](http://yjanuary.com)
 
 ## Introduction
 
-风格参考 @Ovilia @joyeecheung @lishengzxc
+风格参考 @Yjanuary
 
 ## Usage
 
@@ -29,4 +25,4 @@ $ gulp
 
 ## LICENSE
 
-MIT © [DIYgod](http://github.com/DIYgod)
+MIT © [Yjanuary](http://github.com/kongyufei5039)
